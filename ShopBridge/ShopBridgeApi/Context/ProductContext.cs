@@ -44,9 +44,9 @@ namespace ShopBridgeApi.Context
                     {
                         Id = 3,
                         Name = "Hair Dryer",
-                        Company = "Sunfeast",
-                        Description = "Chocolate filled Cookies",
-                        Price = 30,
+                        Company = "Nova",
+                        Description = "190 Watt Hair Dryer",
+                        Price = 750,
                         DateSold = new DateTime(2021, 10, 14, 10, 14, 30)
                     }
                 );
